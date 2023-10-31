@@ -1,5 +1,5 @@
 # GSP207
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
+[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
 ## Run in Cloudshell
 ```cmd
 export REGION=
