@@ -1,5 +1,5 @@
 # GSP211
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
+[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
 ## Run in cloudshell (ZONE from Task 2, Step 3)
 ```cmd
 export ZONE=
